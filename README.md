@@ -1,4 +1,4 @@
-# Industrial-AI
+# Industrial-AI.
 This repository serves as a central hub for all the code, data, and resources related to our projects that used Neural style transfer in the INM716 Industrial AI module. Our primary goal is to develop a Deep Learning model that utilizes advanced algorithms to generate and enhance art.
 
 ## Contributing
