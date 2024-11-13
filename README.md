@@ -8,6 +8,6 @@ We welcome contributions from the community to improve our project. If you have 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or assistance, feel free to contact me at abdulmalikshinkafi@gmail.com.
+For any inquiries or assistance, feel free to contact me at abdulmalikshinkafi@gmail.com
 
 Happy coding!
