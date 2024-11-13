@@ -4,6 +4,9 @@ This repository serves as a central hub for all the code, data, and resources re
 ## Contributing
 We welcome contributions from the community to improve our project. If you have any suggestions, bug reports, or feature requests, please open an issue on GitHub or submit a pull request with your proposed changes. If you also have any ideas on how to improve the Art or use certain interesting styles, We can work together.
 
+## Art Samples
+![img1](https://github.com/user-attachments/assets/58156087-1c94-4e00-b664-da32c51996f9)
+
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
