@@ -14,3 +14,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 For any inquiries or assistance, feel free to contact me at abdulmalikshinkafi@gmail.com
 
 Happy coding!
+
+Copyright@abdulmalikshinkafi
