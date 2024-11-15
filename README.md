@@ -15,4 +15,4 @@ For any inquiries or assistance, feel free to contact me at abdulmalikshinkafi@g
 
 Happy coding!
 
-Copyright@abdulmalikshinkafi
+Copyright @abdulmalikshinkafi
